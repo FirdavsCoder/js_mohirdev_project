@@ -1,6 +1,6 @@
-let a = prompt("a ni kiriting: ");
-let b = prompt("b ni kiriting: ");
-let c = prompt("c ni kiriting: ");
+let a = 0
+let b = 5
+let c = 8
 
 function yasash(a, b, c) {
     let uchXonaliSon = 0;  
